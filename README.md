@@ -2,7 +2,8 @@
 
 Zuri Django URLs task
 
-#Task Guidelines
+# Task Guidelines
+
 Create a new GitHub repository with a README.md, and Python .gitignore file.
 
 Clone it to your machine/computer, which will create a new folder on your computer with your repository’s content.
